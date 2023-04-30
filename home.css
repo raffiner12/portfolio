@@ -1,0 +1,12 @@
+#character {
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 3%;
+    width: 200px;
+}
+
+#introduce {
+    display:inline-block;
+    width: 420px;
+    margin-left: 20px;
+}
